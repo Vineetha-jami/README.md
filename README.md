@@ -1,4 +1,4 @@
-![logo](https://github.com/Vineetha-jami/README.md/blob/main/Banner.png)
+![logo](https://raw.githubusercontent.com/Vineetha-jami/README.md/refs/heads/master/Banner.png)
 <h1 align="center">
   Hi there 👋
   <br>
